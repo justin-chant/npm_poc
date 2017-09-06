@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justin-chant/npm_poc.git"
+    "url": "git+https://github.com/justin-chant/npm_poc_module.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/justin-chant/npm_poc/issues"
+    "url": "https://github.com/justin-chant/npm_poc_module/issues"
   },
-  "homepage": "https://github.com/justin-chant/npm_poc#readme"
+  "homepage": "https://github.com/justin-chant/npm_poc_module#readme"
 }
